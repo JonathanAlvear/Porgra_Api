@@ -10,3 +10,6 @@ Uso de Fluent API.
 
 ## Autores ✒️
 Jonathan Alexander Alvear Manobanda
+
+##improtante 
+Las relaciones realizadas han sido echas entre persona y productos telas, creando una clas aparte llamada "PersonaProductoTela", y el fluent api personalizado esta en "PersonaContextModelSnapshot".
